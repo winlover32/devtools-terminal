@@ -20,7 +20,7 @@
   "dependencies" : {
     "pty.js"   :  "*",
     "optimist" :  "*",
-    "socket.io":  "0.9.16",
+    "socket.io":  "2.5.0",
     "mkdirp"   :  "*"
   },
   "license": "MIT",
